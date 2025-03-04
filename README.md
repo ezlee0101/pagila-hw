@@ -1,6 +1,5 @@
-https://github.com/ezlee0101/pagila-hw.git
 # pagila-hw
-[![](https://github.com/mikeizbicki/pagila-hw/workflows/tests/badge.svg)](https://github.com/ezlee0101/pagila-hw/actions?query=workflow%3Atests)
+[![](https://github.com/ezlee0101/pagila-hw/workflows/tests/badge.svg)](https://github.com/ezlee0101/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
